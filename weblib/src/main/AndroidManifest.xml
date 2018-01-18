@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.itwhiz4u.webview.weblib">
+    package="com.hopin.uniq.sdk">
 
     <application android:theme="@style/AppTheme">
-        <activity android:name="com.itwhiz4u.webview.weblib.WebViewActivity" />
+        <activity android:name="com.hopin.uniq.sdk.WebViewActivity" />
     </application>
 </manifest>

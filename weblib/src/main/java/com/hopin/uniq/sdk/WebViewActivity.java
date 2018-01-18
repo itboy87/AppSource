@@ -1,4 +1,4 @@
-package com.itwhiz4u.webview.weblib;
+package com.hopin.uniq.sdk;
 
 import android.content.Context;
 import android.content.Intent;

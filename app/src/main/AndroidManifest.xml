@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.itwhiz4u.webview.webapp">
+    package="com.hopin.uniq.webapp">
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.itwhiz4u.webview.webapp.MainActivity"
+            android:name="com.hopin.uniq.webapp.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.itwhiz4u.webview.weblib.WebViewActivity" />
+        <activity android:name="com.hopin.uniq.sdk.WebViewActivity" />
     </application>
 
 </manifest>

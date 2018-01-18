@@ -1,4 +1,4 @@
-package com.itwhiz4u.webview.webapp;
+package com.hopin.uniq.sdk;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.itwhiz4u.webview.webapp;
+package com.hopin.uniq.webapp;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.itwhiz4u.webview.weblib.WebViewActivity;
+import com.hopin.uniq.sdk.WebViewActivity;
 
 /**
  * A login screen that offers login via email/password.

@@ -1,4 +1,4 @@
-package com.itwhiz4u.webview.weblib;
+package com.hopin.uniq.webapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.fleeksoft.itboy.weblib.test", appContext.getPackageName());
+        assertEquals("com.fleeksoft.msusman.webtestapplication", appContext.getPackageName());
     }
 }
